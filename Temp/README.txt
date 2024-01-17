@@ -1,0 +1,1 @@
+This folder is made to store temp files for some projects and the files in here may last up to a month or even days!
